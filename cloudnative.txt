@@ -54,4 +54,4 @@ IAM (Identity & Access Management) — அடையாள அணுக்க ம
 NAT (Network Address Translation) Gateway — வலைப்பின்னல் அடையாள மாற்று
 NACL (Network Access Control List)— வலைப்பின்னல் அடையாள கட்டுப்பாட்டு பட்டியல்
 High Availability — உயர் கிடைப்பு
-Hybrid Multi-Cloud — பல்தள , மிகு முகில்
+Hybrid Multi-Cloud — பல்தள , பல் முகில்
