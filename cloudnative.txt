@@ -1,0 +1,57 @@
+Cloud Computing — மேகக் கணினம், முகில் கணினம் (added on June 7th 2020)
+Serverless computing — சேவையகமில்லா கணினம்
+API ( Application Programming Interface) — பயநிடை (பயன்பாடு நிரலாக்கசேவை இடைமுகம் )
+Microservices — நுண்சேவை
+Middleware — இடைப்பொறி
+Cloud-Native — முகில் இயல் (changes June 7th, 2020)
+Container — சீர்கட்டு
+Internet of Things — பொருளிணையம்
+Sandbox — பரிசோதிணி
+Edge Computing — விளிம்பு கணினம்
+On-Premise — தன்மணை
+Workload — பணிச்சுமை (already exists; added for completion)
+Data Warehouse — தரவங்கி
+Data Centre — தரவணை
+Database — தரவலகம்
+Data Analytics — தரவு பகுப்பாய்வு
+BigData — பெருந்தரவு
+Data Structure — தரவமைப்பு
+Machine Learning — கருவி தன்கற்றல்
+In Memory Computing — நினை கணினம்
+End Customer Computing — பயனர் கணினம்
+Firewall — தீச்சுவர் / பகைதடுப்பணை
+Application — பயன்படுகை
+Notification Service — தெரிவிசேவை
+Key Management Service — விசை மேலாண்மைச் சேவை
+PKI (Public Key Infrastructure) — பொதுவிசையமைப்பு ( பொது விசை உள்கட்டமைப்பு)
+Channel — தகவலிடை
+Web App — வலைப்படுகை
+Mobile App — அலைப்படுகை
+Digital Marketplace — இணையச்சந்தை
+Digital Transformation — எண்முறை மாற்றம்
+Telemedicine தொலையாதுரம் / தொலை மருத்துவம்
+Customer Experience — பயனர் அனுபவம்
+Augmented Reality / Virtual Reality — மேம்படுத்தப்பட்ட நிகழ்வு / செயற்கை நிகழ்வு
+Chaos Engineering — குழப்ப பொறியியல்
+BlockChain — அடுக்குச்சங்கிலி
+Quantum Computing — பகுநுண் கணினம்
+Hacking — இணை-ஒற்றம்
+Phishing — நல்இணை-மாற்றம்
+Payment Gateway — நிதி வழங்கீட்டு வாயில்
+Robotic Process Automation — எந்திர செயல்முறை தானாக்கம்
+Innovation — புதுமைகாணல்
+Disruptive Innovation — மிகுவன் புதுமைகாணல்
+Zero-Knowledge Proof — இல்லா அறிவுச் சான்று
+CryptoCurrency — மறையீட்டு நாணயம்
+Private Key — தனிச்சாவி
+Public Key — பொதுச்சாவி
+Sharing Economy — பங்கீட்டுப் பொருளாதாரம்
+Digital Transformation — தானியங்கு மாற்றம்
+Contact Tracing — தொடர்பு தேடல்
+VPC (Virtual Private Cloud) — தனி நினை முகில்
+Subnet — இணைப்பின்னல்
+IAM (Identity & Access Management) — அடையாள அணுக்க மேலாண்மை
+NAT (Network Address Translation) Gateway — வலைப்பின்னல் அடையாள மாற்று
+NACL (Network Access Control List)— வலைப்பின்னல் அடையாள கட்டுப்பாட்டு பட்டியல்
+High Availability — உயர் கிடைப்பு
+Hybrid Multi-Cloud — பல்தள , மிகு முகில்
