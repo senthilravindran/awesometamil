@@ -61,3 +61,5 @@ Professional Services - நேர்முறை சேவை
 Runbook Automation - வரிசைச் செயல் தானியக்கம்
 Sustainable Finance - நிலை நிதியாண்மை
 Support Ticket - ஆதரிச் சீட்டு
+Service Level Assurance - சேவைத்தர வாக்கு 
+Domain Name - இணைத்தளப் பெயர்
