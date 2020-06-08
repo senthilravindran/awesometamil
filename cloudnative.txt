@@ -60,6 +60,4 @@ Customer Engagement - வாடிக்கையாளர் அணுகும
 Professional Services - நேர்முறை சேவை
 Runbook Automation - வரிசைச் செயல் தானியக்கம்
 Sustainable Finance - நிலை நிதியாண்மை
-Public Key — பொதுச்சாவிற
-Public Key — பொதுச்சாவி
-Public Key — பொதுச்சாவி
+Support Ticket - ஆதரிச் சீட்டு
