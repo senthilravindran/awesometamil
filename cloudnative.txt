@@ -1,9 +1,9 @@
-Cloud Computing — மேகக் கணினம், முகில் கணினம் (added on June 7th 2020)
+Cloud Computing — மேகக் கணினம், முகில் கணினம் 
 Serverless computing — சேவையகமில்லா கணினம்
 API ( Application Programming Interface) — பயநிடை (பயன்பாடு நிரலாக்கசேவை இடைமுகம் )
 Microservices — நுண்சேவை
 Middleware — இடைப்பொறி
-Cloud-Native — முகில் இயல் (changes June 7th, 2020)
+Cloud-Native — முகில் இயல் 
 Container — சீர்கட்டு
 Internet of Things — பொருளிணையம்
 Sandbox — பரிசோதிணி
@@ -63,9 +63,9 @@ Sustainable Finance - நிலை நிதியாண்மை
 Support Ticket - ஆதரிச் சீட்டு
 Service Level Assurance - சேவைத்தர வாக்கு 
 Domain Name - இணைத்தளப் பெயர்
-Location Based Computing 
-Gig Economy - 
-Platform - 
+Location Based Computing - தன்னிட கணினம்
+Gig Economy -நிகழ் வணிகம்
+Platform - சேவைத்த
 Platform As A Service - 
 Software As A Service - 
 Open Source - 
