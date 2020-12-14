@@ -63,12 +63,37 @@ Sustainable Finance - நிலை நிதியாண்மை
 Support Ticket - ஆதரிச் சீட்டு
 Service Level Assurance - சேவைத்தர வாக்கு 
 Domain Name - இணைத்தளப் பெயர்
-Location Based Computing 
+Location Based Computing - இடக்கணினம்
 Gig Economy - 
-Platform - 
-Platform As A Service - 
-Software As A Service - 
-Open Source - 
-Developer Ecosystem - 
-Smart Cities- 
-Data Governance - 
+Platform - பயனிடமேடை 
+Platform As A Service -  பயனிடமேடை சேவை
+Software As A Service - மென்பொருள் சேவை
+Developer Ecosystem - உருவாக்கி சூழ்மண்டலம்
+Smart Cities- நுண்ணறி நகர்
+Data Governance - தரவு மேலாண்மை
+CryptoCurrency - கடவுநாணயம்
+Bitcoin - பகுதிநாணயம்
+Decentralized Finance - பரவலாக்க நிதியியல்
+Peer to Peer - சக சக
+Electronic Cash System - மின்னணு பணச்சேர்வை
+Digital Signature - துடிம கையொப்பம்
+Trusted Third Party - பொறுப்புணர் அயலார்
+Network Timestamps - வலைப்பின்னல் காலப்பொறிப்பு
+Double-Spending - மறு செலவீடு
+Proof-Of-Work - பணிச்சான்று
+Trust based model - பொறுப்புசார் படிவம்
+Non-reversible transactions - மீள்வினையற்ற பரிமாற்றம்
+Trusted party - பொறுப்புணர் குழுமத்தார்
+Cryptographic proof - மறையீட்டு சான்று
+Distributed timestamp server - பரவு காலப்பொறிப்பு சேவையகம்
+Honest nodes - நேர்மை கணு
+Timestamp server - காலப்பொறிப்பு சேவையகம்
+Block - அடுக்கு 
+//Exponential - அடுக்கேற்ற
+Block broadcasts - அடுக்கலைபரப்பு
+Central authority - மைய அதிகாரி
+Hash - மாற்றி
+Multi-input-transaction - பல்ஈட்டு பரிமாற்றம்
+Binomial-Random Walk - ஒழுங்கற்ற இரட்டைக்கூறு நடை
+Gambler's Ruin problem - சூதாடி பாழ்நிலை புதிர்
+Chain of blocks - அடுக்குக் கோர்வை
